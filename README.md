@@ -1,6 +1,6 @@
 # Markov-Decision-for-Battery-Scheduling
 
-Four pricing policies you can find them in the paper: Scheduling Battery Systems Under Load Uncertianty Using Markov Decision Process 
+Paper: Scheduling Battery Systems Under Load Uncertianty Using Markov Decision Process 
 
 
 
