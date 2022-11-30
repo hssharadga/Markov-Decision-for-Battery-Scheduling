@@ -31,4 +31,4 @@ y_ = pickle.load(pkl_file)
 pkl_file.close()
 ```
 
-Note: Should you face an issue running the codes, please feel free to drop a LinkedIn message (https://www.linkedin.com/in/hussein-sharadga/).
+Should you face an issue running the codes, please feel free to drop a LinkedIn message (https://www.linkedin.com/in/hussein-sharadga/).
