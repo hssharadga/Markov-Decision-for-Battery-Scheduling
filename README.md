@@ -21,7 +21,7 @@ Pricing **policy D2** is for 11 peak thresholds:  consumes about ?? hours.
 
 data.pkl is the Solution for Policy D. For loading:
 
-# Loading
+#Loading
 
 import pprint, pickle
 pkl_file = open('data.pkl', 'rb')
