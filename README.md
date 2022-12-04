@@ -17,7 +17,7 @@ Pricing **policy D** is for peak shaving which consumes a lot of time (about 9 h
 
 Pricing **policy D** is for 6 peak thresholds:  consumes about 9 hours.
 
-Pricing **policy D2** is for 11 peak thresholds:  consumes about 3 days.
+Pricing **policy D2** is for 11 peak thresholds:  consumes about 3 days  (working hours; for example 12 hours  day).
 
 
 
