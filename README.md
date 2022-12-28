@@ -22,8 +22,11 @@ Pricing **policy D2** is for 11 peak thresholds:  consumes about 3 days  (workin
 
 
 data.pkl is the Solution for Policy D. 
+
 data1.pkl is the Solution for Policy D2. 
+
 data2.pkl is the Solution for 21 peak thresholds. 
+
 
 #For Solution loading:
 ```
