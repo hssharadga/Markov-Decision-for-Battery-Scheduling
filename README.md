@@ -21,7 +21,7 @@ Pricing **policy D2** is for 11 peak thresholds:  consumes about 3 days  (workin
 
 
 
-Pricing **policy A PV - policy C PV ** is after including the PV energy: 1000 Panels are used to meet some portion of  the School demand.  
+Pricing **policy A PV** - **policy C PV** is after including the PV energy: 1000 Panels are used to meet some portion of  the School demand.  
 
 
 
