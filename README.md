@@ -1,6 +1,6 @@
 # Markov-Decision-for-Battery-Scheduling
 
-Authors: Hussein Sharadga
+Authors: Hussein Sharadga, Golbon Zakeri
 
 
 Paper: Scheduling Battery Systems Under Load Uncertianty Using Markov Decision Process 
