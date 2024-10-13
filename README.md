@@ -41,3 +41,4 @@ pkl_file.close()
 ```
 
 Should you face an issue running the codes, please feel free to drop a LinkedIn message (https://www.linkedin.com/in/hussein-sharadga/).
+You can also reach me at hssharadga@tamu.edu.
